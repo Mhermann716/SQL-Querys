@@ -37,7 +37,7 @@ The first part of the screenshot is my query, and the second part is a portion o
 ### Retrieve employees in Marketing
 My team wants to update the computers for certain employees in the Marketing department. To do this, I have to get information on which employee machines to update.
 
-The following code demonstrates how I created a SQL query to filter for employee machines from employees in the Marketing department in the East building.
+The following code demonstrates how I created a SQL query to filter for employee machines from employees in the Marketing department in the East building. 
 
 ![image](https://github.com/Mhermann716/SQL-Query-Coming-Soon-/assets/165307289/925669c2-9526-4bc1-9f8a-b55dc6b3ad07)
 
