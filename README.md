@@ -8,6 +8,7 @@ My organization is working to make their system more secure. It is my job to ens
 There was a potential security incident that occurred after business hours (after 18:00). All after hours login attempts that failed need to be investigated.
 
 The following code demonstrates how I created a SQL query to filter for failed login attempts that occurred after business hours.
+![image](https://github.com/Mhermann716/SQL-Query-Coming-Soon-/assets/165307289/5d9a0c28-3089-4976-b19d-6c3ba9dcb788)
 
 
 
@@ -17,6 +18,7 @@ The first part of the screenshot is my query, and the second part is a portion o
 A suspicious event occurred on 2022-05-09. Any login activity that happened on 2022-05-09 or on the day before needs to be investigated.
 
 The following code demonstrates how I created a SQL query to filter for login attempts that occurred on specific dates.
+![image](https://github.com/Mhermann716/SQL-Query-Coming-Soon-/assets/165307289/8d88078b-5b18-4f6e-8670-6cfd6f0c22c9)
 
 
 
@@ -26,6 +28,7 @@ The first part of the screenshot is my query, and the second part is a portion o
 After investigating the organization’s data on login attempts, I believe there is an issue with the login attempts that occurred outside of Mexico. These login attempts should be investigated.
 
 The following code demonstrates how I created a SQL query to filter for login attempts that occurred outside of Mexico. 
+![image](https://github.com/Mhermann716/SQL-Query-Coming-Soon-/assets/165307289/3843d43c-ce8b-4e56-9937-d2e45639dc10)
 
 
 
@@ -35,6 +38,7 @@ The first part of the screenshot is my query, and the second part is a portion o
 My team wants to update the computers for certain employees in the Marketing department. To do this, I have to get information on which employee machines to update.
 
 The following code demonstrates how I created a SQL query to filter for employee machines from employees in the Marketing department in the East building.
+![image](https://github.com/Mhermann716/SQL-Query-Coming-Soon-/assets/165307289/925669c2-9526-4bc1-9f8a-b55dc6b3ad07)
 
 
 
@@ -44,6 +48,7 @@ The first part of the screenshot is my query, and the second part is a portion o
 The machines for employees in the Finance and Sales departments also need to be updated. Since a different security update is needed, I have to get information on employees only from these two departments.
 
 The following code demonstrates how I created a SQL query to filter for employee machines from employees in the Finance or Sales departments.
+![image](https://github.com/Mhermann716/SQL-Query-Coming-Soon-/assets/165307289/ca427a95-825a-46fa-9831-089290381184)
 
 
 
@@ -53,6 +58,7 @@ The first part of the screenshot is my query, and the second part is a portion o
 My team needs to make one more security update on employees who are not in the Information Technology department. To make the update, I first have to get information on these employees.
 
 The following demonstrates how I created a SQL query to filter for employee machines from employees not in the  Information Technology department.
+![image](https://github.com/Mhermann716/SQL-Query-Coming-Soon-/assets/165307289/0831cd0c-8627-46c2-87d6-c7ec17de0b63)
 
 
 
