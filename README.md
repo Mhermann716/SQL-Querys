@@ -38,6 +38,7 @@ The first part of the screenshot is my query, and the second part is a portion o
 My team wants to update the computers for certain employees in the Marketing department. To do this, I have to get information on which employee machines to update.
 
 The following code demonstrates how I created a SQL query to filter for employee machines from employees in the Marketing department in the East building.
+
 ![image](https://github.com/Mhermann716/SQL-Query-Coming-Soon-/assets/165307289/925669c2-9526-4bc1-9f8a-b55dc6b3ad07)
 
 
@@ -57,7 +58,8 @@ The first part of the screenshot is my query, and the second part is a portion o
 ### Retrieve all employees not in IT
 My team needs to make one more security update on employees who are not in the Information Technology department. To make the update, I first have to get information on these employees.
 
-The following demonstrates how I created a SQL query to filter for employee machines from employees not in the  Information Technology department.
+The following demonstrates how I created a SQL query to filter for employee machines from employees not in the  Information Technology department. 
+
 ![image](https://github.com/Mhermann716/SQL-Query-Coming-Soon-/assets/165307289/0831cd0c-8627-46c2-87d6-c7ec17de0b63)
 
 
